@@ -1,47 +1,16 @@
-## t-rex-runner
+# T-Rex Runner
 
-the trex runner game extracted from chrome offline err page.
+T-Rex runner is an infamous Running game with a dinosuar as the main character. It was originally made for Google's new browser as an easter egg for people to find. You may know it as "Chrome Dino".
 
-see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
+# Upgraded?!?
 
+What I did is get the T-Rex Runner Source code from wayou and compile it for the Original game as well as some different character. Instead of it just being a dinosuar, it could be covid jumping over people, to sonic the hedgehog jumping over the cacti instead!
 
-[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
+# How to play?
 
-![chrome offline game cast](assets/screenshot.gif)
+Visit the official T-Rex Runner v2 [website](https://p-dennygamingyt.github.io/T-Rex-Runner-v2) and select your character. Currently there is only one (the original dino) however I will add some new ones in the very near future. Probably by the end of this week.
 
-## Interesting Forks/In Chinese, we call it 「花样玩法」
+# Credits
 
-- [vianroyal](https://github.com/vianroyal)/[t-rex-runner](https://github.com/vianroyal/t-rex-runner) [Kumamon runner](http://vianroyal.github.io/t-rex-runner/) 
-<br>
-
-![](assets/kumamon-runner.gif)
-
-- [xkuga](https://github.com/xkuga)/[t-rex-runner](https://github.com/xkuga/t-rex-runner) [Hello KuGou](http://hellokugou.com/) 
-<br>
-
-![](assets/hello-kugou.gif)
-
-- [d-nery](https://github.com/d-nery/)/[t-rex-runner](https://github.com/d-nery/t-rex-runner) [Novas coisas](http://d-nery.github.io/t-rex-runner/) 
-<br>
-
-![](assets/novas-coisas.gif)
-
-- [chirag64](https://github.com/chirag64)/[t-rex-runner-bot](https://github.com/chirag64/t-rex-runner-bot) [t-rex runner bot](https://chirag64.github.io/t-rex-runner-bot/) 
-<br>
-
-![](assets/t-rex-runner-bot.gif)
-
-- [19janil](https://github.com/19janil)/[t-rex-runner](https://github.com/19janil/t-rex-runner) [t-rex runner](https://19janil.github.io/t-rex-runner/) 
-<br>
-
-![](assets/t-rex-runner-19janil.gif)
-
-- [enthus1ast](https://github.com/enthus1ast)/[chromeTrip](https://github.com/enthus1ast/chromeTrip) [Chrome Trip by code0](https://code0.itch.io/chrome-trip) 
-<br>
-
-![](https://user-images.githubusercontent.com/13794470/37289691-964618be-260a-11e8-8c4a-6df04d6c490d.gif)
-
-- [zouariste](https://github.com/zouariste)/[corona-runner](https://github.com/zouariste/corona-runner) [Corona runner](https://zouariste.github.io/corona-runner/) 
-<br>
-
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
+Original T-Rex Runner: [Google LLC](https://google.com/)
+Version 2.0: [Payson Holmes](https://github.com/P-DennyGamingYT/)
