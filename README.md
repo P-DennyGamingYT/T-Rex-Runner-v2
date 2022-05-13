@@ -8,7 +8,7 @@ What I did is get the T-Rex Runner Source code from wayou and compile it for the
 
 # How to play?
 
-Visit the official T-Rex Runner v2 [website](https://p-dennygamingyt.github.io/T-Rex-Runner-v2) and select your character. Currently there is only one (the original dino) however I will add some new ones in the very near future. Probably by the end of this week.
+Visit the official T-Rex Runner v2 [website](http://trexrunner.ml/) and select your character. Currently there is only one (the original dino) however I will add some new ones in the very near future. Probably by the end of this week.
 
 # Credits
 
